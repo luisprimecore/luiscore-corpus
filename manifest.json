@@ -1,0 +1,12 @@
+{
+  "updatedAt": "2026-05-25T19:37:24.034Z",
+  "sliceId": "2026-05-25-recursive_cognition",
+  "rowCount": 500,
+  "category": "recursive_cognition",
+  "paths": {
+    "latestJsonl": "/datasets/latest.jsonl",
+    "latestCsv": "/datasets/latest.csv",
+    "sliceJsonl": "/datasets/slices/2026-05-25-recursive_cognition.jsonl",
+    "sliceCsv": "/datasets/slices/2026-05-25-recursive_cognition.csv"
+  }
+}
