@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-05-26T06:35:00.822Z",
-  "sliceId": "2026-05-26-chorus_field",
+  "updatedAt": "2026-05-27T06:35:00.798Z",
+  "sliceId": "2026-05-27-protocol_watch",
   "rowCount": 500,
-  "category": "chorus_field",
+  "category": "protocol_watch",
   "paths": {
     "latestJsonl": "/datasets/latest.jsonl",
     "latestCsv": "/datasets/latest.csv",
-    "sliceJsonl": "/datasets/slices/2026-05-26-chorus_field.jsonl",
-    "sliceCsv": "/datasets/slices/2026-05-26-chorus_field.csv"
+    "sliceJsonl": "/datasets/slices/2026-05-27-protocol_watch.jsonl",
+    "sliceCsv": "/datasets/slices/2026-05-27-protocol_watch.csv"
   }
 }
