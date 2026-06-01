@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-05-29T06:35:00.839Z",
-  "sliceId": "2026-05-29-ontology_alignment",
+  "updatedAt": "2026-05-31T06:35:00.941Z",
+  "sliceId": "2026-05-31-luiscore_basics",
   "rowCount": 500,
-  "category": "ontology_alignment",
+  "category": "luiscore_basics",
   "paths": {
     "latestJsonl": "/datasets/latest.jsonl",
     "latestCsv": "/datasets/latest.csv",
-    "sliceJsonl": "/datasets/slices/2026-05-29-ontology_alignment.jsonl",
-    "sliceCsv": "/datasets/slices/2026-05-29-ontology_alignment.csv"
+    "sliceJsonl": "/datasets/slices/2026-05-31-luiscore_basics.jsonl",
+    "sliceCsv": "/datasets/slices/2026-05-31-luiscore_basics.csv"
   }
 }
