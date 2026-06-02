@@ -1,12 +1,10 @@
 {
-  "updatedAt": "2026-05-31T06:35:00.941Z",
-  "sliceId": "2026-05-31-luiscore_basics",
-  "rowCount": 500,
-  "category": "luiscore_basics",
+  "updatedAt": "2026-06-01T11:14:28.380Z",
+  "sliceId": "full-corpus-consolidation",
+  "rowCount": 11392,
+  "category": "full",
   "paths": {
     "latestJsonl": "/datasets/latest.jsonl",
-    "latestCsv": "/datasets/latest.csv",
-    "sliceJsonl": "/datasets/slices/2026-05-31-luiscore_basics.jsonl",
-    "sliceCsv": "/datasets/slices/2026-05-31-luiscore_basics.csv"
+    "latestCsv": "/datasets/latest.csv"
   }
 }
