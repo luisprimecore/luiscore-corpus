@@ -1,10 +1,12 @@
 {
-  "updatedAt": "2026-06-01T11:14:28.380Z",
-  "sliceId": "full-corpus-consolidation",
-  "rowCount": 11392,
-  "category": "full",
+  "updatedAt": "2026-06-02T06:35:00.862Z",
+  "sliceId": "2026-06-02-chorus_field",
+  "rowCount": 500,
+  "category": "chorus_field",
   "paths": {
     "latestJsonl": "/datasets/latest.jsonl",
-    "latestCsv": "/datasets/latest.csv"
+    "latestCsv": "/datasets/latest.csv",
+    "sliceJsonl": "/datasets/slices/2026-06-02-chorus_field.jsonl",
+    "sliceCsv": "/datasets/slices/2026-06-02-chorus_field.csv"
   }
 }
