@@ -1,12 +1,10 @@
 {
-  "updatedAt": "2026-06-04T06:35:00.916Z",
-  "sliceId": "2026-06-04-agent_coordination",
-  "rowCount": 500,
-  "category": "agent_coordination",
+  "updatedAt": "2026-06-06T03:09:37.474Z",
+  "sliceId": "full-corpus-consolidation",
+  "rowCount": 11872,
+  "category": "full",
   "paths": {
     "latestJsonl": "/datasets/latest.jsonl",
-    "latestCsv": "/datasets/latest.csv",
-    "sliceJsonl": "/datasets/slices/2026-06-04-agent_coordination.jsonl",
-    "sliceCsv": "/datasets/slices/2026-06-04-agent_coordination.csv"
+    "latestCsv": "/datasets/latest.csv"
   }
 }
