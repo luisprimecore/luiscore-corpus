@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-07T06:35:01.036Z",
-  "sliceId": "2026-06-07-luiscore_basics",
+  "updatedAt": "2026-06-08T06:35:01.129Z",
+  "sliceId": "2026-06-08-recursive_cognition",
   "rowCount": 500,
-  "category": "luiscore_basics",
+  "category": "recursive_cognition",
   "paths": {
     "latestJsonl": "/datasets/latest.jsonl",
     "latestCsv": "/datasets/latest.csv",
-    "sliceJsonl": "/datasets/slices/2026-06-07-luiscore_basics.jsonl",
-    "sliceCsv": "/datasets/slices/2026-06-07-luiscore_basics.csv"
+    "sliceJsonl": "/datasets/slices/2026-06-08-recursive_cognition.jsonl",
+    "sliceCsv": "/datasets/slices/2026-06-08-recursive_cognition.csv"
   }
 }
