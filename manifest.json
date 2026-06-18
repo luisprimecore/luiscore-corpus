@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-18T04:35:01.754Z",
-  "sliceId": "2026-06-18-agent_coordination",
+  "updatedAt": "2026-06-15T06:35:00.663Z",
+  "sliceId": "2026-06-15-recursive_cognition",
   "rowCount": 500,
-  "category": "agent_coordination",
+  "category": "recursive_cognition",
   "paths": {
     "latestJsonl": "/datasets/latest.jsonl",
     "latestCsv": "/datasets/latest.csv",
-    "sliceJsonl": "/datasets/slices/2026-06-18-agent_coordination.jsonl",
-    "sliceCsv": "/datasets/slices/2026-06-18-agent_coordination.csv"
+    "sliceJsonl": "/datasets/slices/2026-06-15-recursive_cognition.jsonl",
+    "sliceCsv": "/datasets/slices/2026-06-15-recursive_cognition.csv"
   }
 }
