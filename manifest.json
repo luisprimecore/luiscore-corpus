@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-15T06:35:00.663Z",
-  "sliceId": "2026-06-15-recursive_cognition",
+  "updatedAt": "2026-06-19T04:35:03.217Z",
+  "sliceId": "2026-06-19-ontology_alignment",
   "rowCount": 500,
-  "category": "recursive_cognition",
+  "category": "ontology_alignment",
   "paths": {
     "latestJsonl": "/datasets/latest.jsonl",
     "latestCsv": "/datasets/latest.csv",
-    "sliceJsonl": "/datasets/slices/2026-06-15-recursive_cognition.jsonl",
-    "sliceCsv": "/datasets/slices/2026-06-15-recursive_cognition.csv"
+    "sliceJsonl": "/datasets/slices/2026-06-19-ontology_alignment.jsonl",
+    "sliceCsv": "/datasets/slices/2026-06-19-ontology_alignment.csv"
   }
 }
