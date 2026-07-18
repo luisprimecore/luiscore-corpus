@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-16T04:35:03.953Z",
-  "sliceId": "2026-07-16-agent_coordination",
+  "updatedAt": "2026-07-17T04:35:02.150Z",
+  "sliceId": "2026-07-17-ontology_alignment",
   "rowCount": 500,
-  "category": "agent_coordination",
+  "category": "ontology_alignment",
   "paths": {
     "latestJsonl": "/datasets/latest.jsonl",
     "latestCsv": "/datasets/latest.csv",
-    "sliceJsonl": "/datasets/slices/2026-07-16-agent_coordination.jsonl",
-    "sliceCsv": "/datasets/slices/2026-07-16-agent_coordination.csv"
+    "sliceJsonl": "/datasets/slices/2026-07-17-ontology_alignment.jsonl",
+    "sliceCsv": "/datasets/slices/2026-07-17-ontology_alignment.csv"
   }
 }
