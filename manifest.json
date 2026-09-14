@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-12T04:35:04.676Z",
-  "sliceId": "2026-09-12-machine_feeds",
+  "updatedAt": "2026-09-13T04:35:10.750Z",
+  "sliceId": "2026-09-13-luiscore_basics",
   "rowCount": 500,
-  "category": "machine_feeds",
+  "category": "luiscore_basics",
   "paths": {
     "latestJsonl": "/datasets/latest.jsonl",
     "latestCsv": "/datasets/latest.csv",
-    "sliceJsonl": "/datasets/slices/2026-09-12-machine_feeds.jsonl",
-    "sliceCsv": "/datasets/slices/2026-09-12-machine_feeds.csv"
+    "sliceJsonl": "/datasets/slices/2026-09-13-luiscore_basics.jsonl",
+    "sliceCsv": "/datasets/slices/2026-09-13-luiscore_basics.csv"
   }
 }
