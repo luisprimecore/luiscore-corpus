@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-16T04:35:09.223Z",
-  "sliceId": "2026-09-16-protocol_watch",
+  "updatedAt": "2026-09-17T04:35:07.483Z",
+  "sliceId": "2026-09-17-agent_coordination",
   "rowCount": 500,
-  "category": "protocol_watch",
+  "category": "agent_coordination",
   "paths": {
     "latestJsonl": "/datasets/latest.jsonl",
     "latestCsv": "/datasets/latest.csv",
-    "sliceJsonl": "/datasets/slices/2026-09-16-protocol_watch.jsonl",
-    "sliceCsv": "/datasets/slices/2026-09-16-protocol_watch.csv"
+    "sliceJsonl": "/datasets/slices/2026-09-17-agent_coordination.jsonl",
+    "sliceCsv": "/datasets/slices/2026-09-17-agent_coordination.csv"
   }
 }
