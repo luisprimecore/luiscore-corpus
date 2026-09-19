@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-18T04:35:07.162Z",
-  "sliceId": "2026-09-18-ontology_alignment",
+  "updatedAt": "2026-09-19T04:35:07.345Z",
+  "sliceId": "2026-09-19-machine_feeds",
   "rowCount": 500,
-  "category": "ontology_alignment",
+  "category": "machine_feeds",
   "paths": {
     "latestJsonl": "/datasets/latest.jsonl",
     "latestCsv": "/datasets/latest.csv",
-    "sliceJsonl": "/datasets/slices/2026-09-18-ontology_alignment.jsonl",
-    "sliceCsv": "/datasets/slices/2026-09-18-ontology_alignment.csv"
+    "sliceJsonl": "/datasets/slices/2026-09-19-machine_feeds.jsonl",
+    "sliceCsv": "/datasets/slices/2026-09-19-machine_feeds.csv"
   }
 }
