@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-06T04:35:02.647Z",
-  "sliceId": "2026-10-06-chorus_field",
+  "updatedAt": "2026-10-08T18:14:10.119Z",
+  "sliceId": "2026-10-08-agent_coordination",
   "rowCount": 500,
-  "category": "chorus_field",
+  "category": "agent_coordination",
   "paths": {
     "latestJsonl": "/datasets/latest.jsonl",
     "latestCsv": "/datasets/latest.csv",
-    "sliceJsonl": "/datasets/slices/2026-10-06-chorus_field.jsonl",
-    "sliceCsv": "/datasets/slices/2026-10-06-chorus_field.csv"
+    "sliceJsonl": "/datasets/slices/2026-10-08-agent_coordination.jsonl",
+    "sliceCsv": "/datasets/slices/2026-10-08-agent_coordination.csv"
   }
 }
