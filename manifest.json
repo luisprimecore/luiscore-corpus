@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-11T00:40:41.124Z",
-  "sliceId": "2026-11-11-protocol_watch",
+  "updatedAt": "2026-11-23T05:35:07.450Z",
+  "sliceId": "2026-11-23-recursive_cognition",
   "rowCount": 500,
-  "category": "protocol_watch",
+  "category": "recursive_cognition",
   "paths": {
     "latestJsonl": "/datasets/latest.jsonl",
     "latestCsv": "/datasets/latest.csv",
-    "sliceJsonl": "/datasets/slices/2026-11-11-protocol_watch.jsonl",
-    "sliceCsv": "/datasets/slices/2026-11-11-protocol_watch.csv"
+    "sliceJsonl": "/datasets/slices/2026-11-23-recursive_cognition.jsonl",
+    "sliceCsv": "/datasets/slices/2026-11-23-recursive_cognition.csv"
   }
 }
