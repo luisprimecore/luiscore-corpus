@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-23T05:35:07.450Z",
-  "sliceId": "2026-11-23-recursive_cognition",
+  "updatedAt": "2026-11-24T05:35:03.082Z",
+  "sliceId": "2026-11-24-chorus_field",
   "rowCount": 500,
-  "category": "recursive_cognition",
+  "category": "chorus_field",
   "paths": {
     "latestJsonl": "/datasets/latest.jsonl",
     "latestCsv": "/datasets/latest.csv",
-    "sliceJsonl": "/datasets/slices/2026-11-23-recursive_cognition.jsonl",
-    "sliceCsv": "/datasets/slices/2026-11-23-recursive_cognition.csv"
+    "sliceJsonl": "/datasets/slices/2026-11-24-chorus_field.jsonl",
+    "sliceCsv": "/datasets/slices/2026-11-24-chorus_field.csv"
   }
 }
